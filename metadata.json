@@ -1,0 +1,8 @@
+{
+  "name": "e-Diary Kenyan School System",
+  "description": "A comprehensive CBC-aligned e-Diary application for Kenyan primary schools, featuring teacher and parent interfaces, automated homework monitoring, and a streamlined setup wizard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
